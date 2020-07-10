@@ -1,4 +1,4 @@
-# commit a
+# commit b
 class Foo
   def method_1cd
     puts "foo"
